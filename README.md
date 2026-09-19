@@ -9,6 +9,7 @@
 - Developed and fabricated prototype lattice components using FDM 3D printing and DfM principles.
 - Performed mechanical testing and failure analysis of beam–node connections to assess robustness and manufacturability.
 - Established a multi-criteria evaluation framework incorporating manufacturability, assembly complexity, reproducibility, and structural performance.
+<br><br><br>
 <p align="center">
 Overview: <br/>
 <img src="https://i.imgur.com/ofJ1Z9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
